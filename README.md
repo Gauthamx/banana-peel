@@ -218,9 +218,8 @@ public/
 
 # Additional Demos
 
-* Live Webcam Detection: [Add link]
-* GitHub Repository: [Add repository link]
-* Live Website: [Add deployed website link]
+* GitHub Repository: https://github.com/Gauthamx/banana-peel/
+* Live Website: https://banana-peeling.vercel.app
 * Teachable Machine Model: https://teachablemachine.withgoogle.com/models/MGa1ic7Im/
 
 ## Team Contributions
